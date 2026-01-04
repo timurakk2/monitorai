@@ -1,0 +1,8 @@
+{
+  "name": "Monitor AI (iOS Edition)",
+  "description": "A premium AI assistant designed with Apple's modern minimalism, featuring a secure access gate, weather widgets, and a sleek iOS-inspired chat interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
